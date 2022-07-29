@@ -1,4 +1,4 @@
-# c_escape.h
+# c_escape
 A small unicode (UTF-8 + surrogate pairs) escaper and unescaper for `C`. Both `C` and `JSON` flavored escaping are available.
 ```c
 const char* str = "français\n日本 한국어";
