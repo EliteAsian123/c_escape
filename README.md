@@ -46,7 +46,7 @@ free(unescaped);
 
 ## Usage
 
-Join plop the `c_escape.h` and `c_escape.c` file into your project and `#include` it!
+Just plop the `c_escape.h` and `c_escape.c` file into your project and `#include` it!
 Make sure that `c_escape.c` is compiled.
 
 ## Contributing
